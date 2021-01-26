@@ -1,0 +1,8 @@
+[
+    { "id": "vangesantos", "tags": ["blue"], "name": "Evangivaldo Almeida Santos", "img": "https://i1.wp.com/terracoeconomico.com.br/wp-content/uploads/2019/01/default-user-image.png"},
+    { "id": "laudiceria", "tags": ["partner"], "pid":"vangesantos" , "name": "Laudicéria Freire Santos", "img": "https://i1.wp.com/terracoeconomico.com.br/wp-content/uploads/2019/01/default-user-image.png"},
+    { "id": "laudivan", "tags": ["blue"], "pid": "vangesantos", "ppid": "laudiceria", "name": "Laudivan Freire de Almeida", "img": "https://i1.wp.com/terracoeconomico.com.br/wp-content/uploads/2019/01/default-user-image.png"},
+    { "id": "kinha", "tags": ["partner"], "pid": "laudivan", "name": "Erika Bezerra Morais de Almeida", "img": "https://i1.wp.com/terracoeconomico.com.br/wp-content/uploads/2019/01/default-user-image.png"},
+    { "id": "rbk", "pid": "laudivan", "ppid": "kinha", "name": "Rebeca Morais de Almeida", "img": "https://i1.wp.com/terracoeconomico.com.br/wp-content/uploads/2019/01/default-user-image.png"},
+    { "id": "ariel", "tags": ["blue"], "pid": "laudivan", "ppid": "kinha", "name": "Ariel Morais de Almeida", "img": "https://i1.wp.com/terracoeconomico.com.br/wp-content/uploads/2019/01/default-user-image.png"}
+]
